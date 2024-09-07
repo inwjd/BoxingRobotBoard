@@ -7,7 +7,7 @@
     <h1>Boxing Robot Board</h1>
     <h2>About BoxingRobot Board</h2>
     <p>
-       The Boxing Robot board is a project of the 19th freshman of the RO:BIT Humanoid Team, and is a single board for driving a robot designed to be mounted on the designed robot.
+       The Boxing Robot board is a circuit for the project of the 19th new student of the RO:BIT Humanoid Team, and is a single board for robot operation designed to be mounted on the designed robot.
       <br>
       <br>
       <!--
