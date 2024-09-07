@@ -15,9 +15,16 @@
       <table>
         <tr>
           <td>
-            <a href="image/SRCIRC24_MainBoard.png">
+            <a href="iamge/BoxingRobot_Front.png">
               <div align="center">
-                <img src="image/SRCIRC24_MainBoard.png" width="320px">
+                <img src="iamge/BoxingRobot_Front.png" width="320px">
+              </div>
+            </a>
+          </td>
+          <td>
+            <a href="iamge/BoxingRobot_Back.png">
+              <div align="center">
+                <img src="iamge/BoxingRobot_Back.png" width="320px">
               </div>
             </a>
           </td>
@@ -37,7 +44,12 @@
         <tr>
           <td>
             <div align="center">
-              PCB preview image
+              PCB preview image(Front)
+            </div>
+          </td>
+          <td>
+            <div align="center">
+              PCB preview image(Back)
             </div>
           </td>
           <td>
