@@ -54,12 +54,12 @@
           </td>
           <td>
             <div align="center">
-              After mounting electronic components
+              After mounting electronic components(Front)
             </div>
           </td>
           <td>
             <div align="center">
-              After attaching module board
+              After mounting electronic components(Back)
             </div>
           </td>     
         </tr>
