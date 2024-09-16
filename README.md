@@ -104,7 +104,7 @@
                 <td>C1,C2</td>
                 <td>2</td>
                 <td>Electrolytic Capacitor</td>
-                <td><a href="https://www.eleparts.co.kr/goods/view?no=14714341">Devicemart</a></td>
+                <td><a href="https://www.devicemart.co.kr/goods/view?no=25388">Devicemart</a></td>
                 <td>electrolytic capacitor CAP 470UF 25V SMD</td>
               </tr>
               <tr>
