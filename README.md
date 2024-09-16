@@ -17,14 +17,14 @@
           <td>
             <a href="iamge/BoxingRobot_Front.png">
               <div align="center">
-                <img src="iamge/BoxingRobot_Front.png" width="320px">
+                <img src="iamge/Boxing_front.png" width="320px">
               </div>
             </a>
           </td>
           <td>
             <a href="iamge/BoxingRobot_Back.png">
               <div align="center">
-                <img src="iamge/BoxingRobot_Back.png" width="320px">
+                <img src="iamge/Boxing_back.png" width="320px">
               </div>
             </a>
           </td>
