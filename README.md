@@ -79,7 +79,7 @@
     <h2>Documentation</h2>
       <p>
         <h3>Materials</h3>
-        The below shows the components actually mounted on the CHULSU-OP4 equipped MainBoard in Boxing Robot. Their details are listed below.
+        The below shows the actual components mounted on the main board of the boxing robot, a project for the 19th robit freshmen.
       <br>
       <br>
           <table>
